@@ -5,7 +5,7 @@
  * Description:     attaches whitelisted post meta values to the wordpress rest api v2 post show call
  * Author:          Dirk Gustke
  * Text Domain:     vmpublishing/vm_wordpress_rest_post_meta_extension
- * Version:         0.1.0
+ * Version:         0.1.2
  *
  * @package         vmpublishing/vm_wordpress_rest_post_meta_extension
  */
