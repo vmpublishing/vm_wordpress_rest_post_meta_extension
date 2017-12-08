@@ -1,0 +1,7 @@
+{
+  "name": "vmpublishing/vm_wordpress_rest_post_meta_extension",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
